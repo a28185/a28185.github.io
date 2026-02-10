@@ -1,1 +1,27 @@
+/* Color rojo oficial de la bandera de Zaragoza */
+.bg-zaragoza {
+    background-color: #d32f2f !important;
+}
 
+/* Imagen de fondo para la portada */
+.hero-bg {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), 
+                url('https://images.unsplash.com/photo-1540260270634-934394019a5c?auto=format&fit=crop&w=1200');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+}
+
+/* Espaciado para que al pinchar en el menú no tape el título */
+html {
+    scroll-padding-top: 70px;
+}
+
+/* Efecto sencillo en las tarjetas */
+.card {
+    transition: 0.3s;
+}
+
+.card:hover {
+    border-color: #d32f2f;
+}
