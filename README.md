@@ -14,9 +14,9 @@ La web se ha construido utilizando Bootstrap 5 vía CDN , empleando una estructu
   - Footer: Pie de página con datos de contacto y redes sociales.
 
 #   Componentes Bootstrap Utilizados
-    Se han implementado los siguientes componentes de la documentación oficial:
-    - Cards: Para presentar de forma visual los ponentes o actividades.
-    - Buttons: Estilizados con clases de Bootstrap para la interacción del usuario.
+Se han implementado los siguientes componentes de la documentación oficial:
+- Cards: Para presentar de forma visual los ponentes o actividades.
+- Buttons: Estilizados con clases de Bootstrap para la interacción del usuario.
     
 # 3. Gestión de Versiones (GitHub)
 El desarrollo se ha gestionado siguiendo un flujo de trabajo profesional mediante ramas:
