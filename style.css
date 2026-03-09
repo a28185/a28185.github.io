@@ -1,4 +1,4 @@
-.navbar {
+nav {
     background: #383838;
 }
 
@@ -14,7 +14,7 @@
     padding: 60px 0;
 }
 
-.footer {
+footer {
     color: white;
     background: #383838;
 }
