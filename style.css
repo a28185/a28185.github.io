@@ -1,9 +1,14 @@
+nav {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+}
+
 .navbar {
   background-color: white;
 }
 
-.navbar .navbar-brand,
-.navbar .nav-link {
+.navbar .navbar-brand, .navbar .nav-link {
   color: white;
 }
 
