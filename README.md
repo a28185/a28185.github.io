@@ -1,4 +1,4 @@
-# Torneo de Voleibol Local 2026 🏐
+# Torneo de Voleibol Local 2026
 
 ## Descripción del Proyecto
 Este proyecto consiste en el diseño y desarrollo de una página web informativa para un **evento deportivo de voleibol** organizado por una entidad local. La web es estática, responsive y ha sido construida utilizando el framework **Bootstrap 5**.
