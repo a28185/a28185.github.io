@@ -4,11 +4,11 @@ nav {
   text-align: center;
   justify-content: center;
   align-items: center;
-  background-color: #3d3d3d;
+  background-color: #3d3d3d !important;
 }
 
 .navbar {
-  background-color: #3d3d3d;
+  background-color: #3d3d3d !important;
 }
 
 .navbar .navbar-brand, .navbar .nav-link {
