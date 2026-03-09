@@ -29,6 +29,7 @@ El desarrollo se gestionó mediante una rama secundaria siguiendo un flujo de tr
 
 ## Dificultad Encontrada y Solución
 **Dificultad:** Durante la migración de estilos al archivo externo `style.css`, el diseño de la web dejó de cargar correctamente.
+
 **Solución:** Se identificó que se habían incluido erróneamente las etiquetas HTML `<style>` dentro del archivo CSS. Tras eliminarlas y verificar el enlace `<link>` en el `index.html`, el diseño volvió a funcionar perfectamente.
 
 ---
