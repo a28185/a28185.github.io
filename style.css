@@ -1,10 +1,10 @@
 .navbar {
-  background-color: #123456; /* pon aquí el color de fondo que quieras */
+  background-color: white;
 }
 
 .navbar .navbar-brand,
 .navbar .nav-link {
-  color: #ffffff; /* pon aquí el color de fuente que prefieras */
+  color: white;
 }
 
 .hero-section {
