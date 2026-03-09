@@ -1,13 +1,15 @@
-nav a {
-    color: white;
+nav {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
 }
 
-nav li {
-    display: flex
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    color: white;
+.navbar {
+  background-color: white;
+}
+
+.navbar .navbar-brand, .navbar .nav-link {
+  color: white;
 }
 
 .hero-section {
