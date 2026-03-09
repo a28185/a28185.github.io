@@ -1,13 +1,10 @@
-nav a {
-    color: white;
+.navbar {
+  background-color: #123456; /* pon aquí el color de fondo que quieras */
 }
 
-nav li {
-    display: flex
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    color: white;
+.navbar .navbar-brand,
+.navbar .nav-link {
+  color: #ffffff; /* pon aquí el color de fuente que prefieras */
 }
 
 .hero-section {
